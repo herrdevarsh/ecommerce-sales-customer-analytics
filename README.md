@@ -30,20 +30,20 @@ Short paragraph: what business problem this solves.
 - Time intelligence: YTD, PYTD, YoY, dynamic period selector (MTD/QTD/YTD/YoY)
 - Revenue breakdown by region and category
 
-![Overview Dashboard](dashboard/screenshots/overview.png)
+![Overview Dashboard](dashboard/screenshots/overview.PNG)
 
 ### Customers Page
 - Customer LTV, number of orders, and lifetime days
 - Revenue by segment and country
 - RFM segments (Champions, Loyal, At Risk, etc.)
 
-![Customers Dashboard](dashboard/screenshots/customers.png)
+![Customers Dashboard](dashboard/screenshots/customers.PNG)
 
 ### Cohorts & RFM Page
 - Monthly cohort retention heatmap
 - RFM revenue by segment and Champions share
 
-![Cohorts Dashboard](dashboard/screenshots/cohorts.png)
+![Cohorts Dashboard](dashboard/screenshots/cohorts.PNG)
 
 ## 6. Folder Structure
 

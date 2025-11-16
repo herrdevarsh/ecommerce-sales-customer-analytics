@@ -96,7 +96,7 @@ The final dashboard enables leadership to understand performance, identify growt
 - Revenue by Region & Category  
 
 **Screenshot:**  
-![Overview](dashboard/screenshots/overview.png)
+![Overview](dashboard/screenshots/overview.PNG)
 
 ---
 
@@ -108,7 +108,7 @@ The final dashboard enables leadership to understand performance, identify growt
 - Top customers  
 
 **Screenshot:**  
-![Customers](dashboard/screenshots/customers.png)
+![Customers](dashboard/screenshots/customers.PNG)
 
 ---
 
@@ -118,7 +118,7 @@ The final dashboard enables leadership to understand performance, identify growt
 - Sub-category treemap  
 
 **Screenshot:**  
-![Products](dashboard/screenshots/products.png)
+![Products](dashboard/screenshots/products.PNG)
 
 ---
 
@@ -128,7 +128,7 @@ The final dashboard enables leadership to understand performance, identify growt
 - Champions % contribution  
 
 **Screenshot:**  
-![Cohorts](dashboard/screenshots/cohorts.png)
+![Cohorts](dashboard/screenshots/cohorts.PNG)
 
 ---
 
